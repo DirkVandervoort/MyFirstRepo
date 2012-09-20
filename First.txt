@@ -7,4 +7,8 @@ Make another change.
 
 I am now adding a line.
 
+<<<<<<< HEAD
 This is a line from MacBook Air
+=======
+This  is a line from Win7
+>>>>>>> 6c1349661a7b44500225283fded16d2b1f9501cf
