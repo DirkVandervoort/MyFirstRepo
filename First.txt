@@ -1,4 +1,5 @@
 Add a line at the beginning // corrected this line
+
 A bunch junk.
 
 Here I add a thing.
@@ -7,6 +8,6 @@ Make another change.
 
 I am now adding a line.
 
-
 This is a line from MacBook Air
+
 This  is a line from Win7
